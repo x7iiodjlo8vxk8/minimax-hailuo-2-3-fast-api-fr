@@ -1,0 +1,15 @@
+{
+  "id": "MiniMax-Hailuo-2.3-Fast",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T13:03:30Z",
+  "prices": {
+    "default": {
+      "list": 0.031,
+      "effective": 0.0248
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.0248 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/minimax-hailuo-2-3-fast"
+}
